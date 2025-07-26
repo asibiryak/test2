@@ -1,5 +1,2 @@
-str = 'test 2'
+str = 'test 2 fork 1'
 print(str)
-#alexxphysics
-#fakeuser
-#alexxphysics2
